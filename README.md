@@ -29,7 +29,6 @@ Projeyi çalıştırmak ve sonucu görmek için aşağıdaki bağlantıyı kulla
 ## 🎨 Proje Açıklaması
 
 Kod çalıştırıldığında robot, yıldızları ve gece manzarasını temsil eden desenleri çizmek üzere yönlendirilir.  
-Bu proje, algoritmik düşünme ve robot kontrolü üzerine temel kavramları pekiştirmeye yöneliktir.
 
 ## 🎨 Görsel
 
