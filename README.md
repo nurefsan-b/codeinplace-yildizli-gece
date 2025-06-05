@@ -1,5 +1,4 @@
-# codeinplace-yildizli-gece
-# 🌌 Yıldızlı Gece - Code in Place Projesi
+# 🌌 Yıldızlı Gece
 
 Bu proje, **Stanford Üniversitesi'nin Code in Place 2025** programı kapsamında, 6 haftalık python eğitiminin **2. haftasında** yapılmıştır. 
 
